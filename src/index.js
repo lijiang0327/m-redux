@@ -10,4 +10,6 @@ const redux = {
     combineReducers
 };
 
+// test labels
+
 export default redux;
