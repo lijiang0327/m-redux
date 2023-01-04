@@ -10,6 +10,4 @@ const redux = {
     combineReducers
 };
 
-// ttt
-
 export default redux;
